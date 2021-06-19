@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31402.337
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KomodoProgram3", "KomodoProgram3\KomodoProgram3.csproj", "{9295A619-A95D-4B5C-AC72-E4B4DE1C549D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KomodoLibrary3.1", "KomodoLibrary3.1\KomodoLibrary3.1.csproj", "{0B00899C-D0B3-4645-BCBE-CD86430854B4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9295A619-A95D-4B5C-AC72-E4B4DE1C549D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9295A619-A95D-4B5C-AC72-E4B4DE1C549D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9295A619-A95D-4B5C-AC72-E4B4DE1C549D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9295A619-A95D-4B5C-AC72-E4B4DE1C549D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0B00899C-D0B3-4645-BCBE-CD86430854B4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0B00899C-D0B3-4645-BCBE-CD86430854B4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0B00899C-D0B3-4645-BCBE-CD86430854B4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0B00899C-D0B3-4645-BCBE-CD86430854B4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B20585D5-6ACB-4DBB-883E-48A8B170B3F8}
+	EndGlobalSection
+EndGlobal

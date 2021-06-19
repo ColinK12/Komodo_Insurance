@@ -1,0 +1,10 @@
+C:\Users\Colin\source\repos\Komodo3\KomodoProgram3\obj\Debug\KomodoProgram3.csproj.AssemblyReference.cache
+C:\Users\Colin\source\repos\Komodo3\KomodoProgram3\obj\Debug\KomodoProgram3.csproj.CoreCompileInputs.cache
+C:\Users\Colin\source\repos\Komodo3\KomodoProgram3\bin\Debug\KomodoProgram3.exe.config
+C:\Users\Colin\source\repos\Komodo3\KomodoProgram3\bin\Debug\KomodoProgram3.exe
+C:\Users\Colin\source\repos\Komodo3\KomodoProgram3\bin\Debug\KomodoProgram3.pdb
+C:\Users\Colin\source\repos\Komodo3\KomodoProgram3\bin\Debug\KomodoLibrary3.1.dll
+C:\Users\Colin\source\repos\Komodo3\KomodoProgram3\bin\Debug\KomodoLibrary3.1.pdb
+C:\Users\Colin\source\repos\Komodo3\KomodoProgram3\obj\Debug\KomodoProgram3.csproj.CopyComplete
+C:\Users\Colin\source\repos\Komodo3\KomodoProgram3\obj\Debug\KomodoProgram3.exe
+C:\Users\Colin\source\repos\Komodo3\KomodoProgram3\obj\Debug\KomodoProgram3.pdb
